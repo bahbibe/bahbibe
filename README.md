@@ -1,7 +1,6 @@
-
+[![bahbibe's 42 stats](https://badge.mediaplus.ma/binary/bahbibe)](https://github.com/oakoudad/badge42)
 <h1 align="center">Hi 👋, I'm boubker ahbibe</h1>
 <h3 align="center">A passionate developer</h3>
-[![bahbibe's 42 stats](https://badge.mediaplus.ma/binary/bahbibe)](https://github.com/oakoudad/badge42)
 - 🔭 I’m currently working on **42 cursus**
 
 - 🌱 I’m currently learning **C and pretty much everything else :D**

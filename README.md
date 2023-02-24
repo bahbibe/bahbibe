@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Boubker </h1>
-<div align="center">
     [![bahbibe's 42 stats](https://badge.mediaplus.ma/darkblue/bahbibe)](https://github.com/oakoudad/badge42)
-</div>
 <h3 align="center">A passionate developer</h3>
 - 🔭 I’m currently working on **42 cursus**
 

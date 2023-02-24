@@ -1,7 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Boubker </h1>
 
-<img src="https://badge.mediaplus.ma/greenbinary/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
+<div align="center">
+    <br clear="both">
+    <img src="https://badge.mediaplus.ma/greenbinary/abouramd"  alt="abouramd's 42 stats"width="80%"/>
+    <br clear="both">
+</div>
 <h3 align="center">A passionate developer</h3>
 - 🔭 I’m currently working on **42 cursus**
 

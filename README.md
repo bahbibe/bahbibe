@@ -3,7 +3,7 @@
 
 <div align="center">
     <br clear="both">
-    <img src="https://badge.mediaplus.ma/greenbinary/abouramd"  alt="abouramd's 42 stats"width="80%"/>
+    <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="100%"/>
     <br clear="both">
 </div>
 <h3 align="center">A passionate developer</h3>

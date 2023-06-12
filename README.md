@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **42 cursus**
 
-- 🌱 I’m currently learning **C and pretty much everything else :D**
+- 🌱 I’m currently learning **How to code and pretty much everything else :D**
 
 - 📫 How to reach me **bahbibe@student.1337.ma**
 

@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Boubker </h1>
 <h2 align="center">A passionate developer</h2>
-<div align="center">
+<!-- <div align="center">
     <br clear="both">
     <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
     <br clear="both">
-</div>
-
+</div> -->
+[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/bahbibe)](https://github.com/oakoudad/badge42)
 - 🔭 I’m currently working on **42 cursus**
 
 - 🌱 I’m currently learning **How to code and pretty much everything else :D**

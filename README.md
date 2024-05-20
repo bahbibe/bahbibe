@@ -6,7 +6,6 @@
     <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
     <br clear="both">
 </div> -->
-[![bahbibe's 42 stats](https://badge.mediaplus.ma/darkblue/bahbibe)](https://github.com/oakoudad/badge42)
 
 - 🔭 I’m currently working on **42 cursus**
 

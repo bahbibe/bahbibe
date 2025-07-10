@@ -8,5 +8,5 @@
 </div> -->
 
 
-- 📫 How to reach me **bahbibe@student.1337.ma/ahbibe.b@gmail.com***
+- 📫 How to reach me **ahbibe.b@gmail.com***
 

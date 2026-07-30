@@ -48,22 +48,6 @@ public:
 
 ---
 
-# 🔐 Cybersecurity
-
-- Offensive Security
-- Active Directory Security
-- Web Application Security
-- Network Security
-- Linux Security
-- Windows Internals
-- OWASP Top 10
-- Burp Suite
-- Nmap
-- Wireshark
-- BloodHound
-
----
-
 # ⚡ Tech Stack
 
 ### Languages

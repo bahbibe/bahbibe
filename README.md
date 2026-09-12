@@ -5,49 +5,38 @@
   <img alt="Boubker Ahbibe, software engineer, offensive security" src="assets/header-light.svg" width="840">
 </picture>
 
-<br/>
-
-<a href="https://linkedin.com/in/ahbibe"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ahbibe-58a6ff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=58a6ff"></a> <a href="mailto:boubkerahbibe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-boubkerahbibe-3fb950?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=3fb950"></a> <img alt="Location: Morocco" src="https://img.shields.io/badge/location-morocco-8b949e?style=for-the-badge&labelColor=0d1117"> <img alt="Focus: offensive security" src="https://img.shields.io/badge/focus-offensive%20security-f85149?style=for-the-badge&labelColor=0d1117">
+<a href="https://linkedin.com/in/ahbibe"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-ahbibe-58a6ff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=58a6ff"></a> <a href="mailto:boubkerahbibe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-boubkerahbibe-3fb950?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=3fb950"></a> <a href="https://github.com/bahbibe?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-browse-8b949e?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=8b949e"></a>
 
 </div>
 
-<br/>
+## stack
 
 <table width="100%">
 <tr>
-<td width="52%" valign="top">
-
-```console
-$ whoami --verbose
-
-  name      Boubker Ahbibe
-  location  Morocco
-  role      Software Engineer
-  doing     backend services and
-            platform infrastructure
-  learning  Active Directory,
-            red teaming, web app security
-
-$ uptime
-
-  writing C since 2018,
-  still enjoy segfaults
-```
-
-</td>
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
 **languages**
 
 <img alt="C, C++, Go, Python, TypeScript, Bash" src="https://skillicons.dev/icons?i=c,cpp,go,python,ts,bash&theme=dark" />
 
+</td>
+<td width="50%" valign="top">
+
 **backend and data**
 
 <img alt="NestJS, Express, GraphQL, PostgreSQL, Redis, Prisma" src="https://skillicons.dev/icons?i=nestjs,express,graphql,postgres,redis,prisma&theme=dark" />
 
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 **infrastructure**
 
 <img alt="Docker, Linux, Nginx, Ansible, Git, GitHub Actions" src="https://skillicons.dev/icons?i=docker,linux,nginx,ansible,git,githubactions&theme=dark" />
+
+</td>
+<td valign="top">
 
 **offensive security**
 

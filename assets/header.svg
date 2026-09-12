@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Boubker Ahbibe, software engineer, offensive security">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 408" width="840" height="408" role="img" aria-label="Boubker Ahbibe. Software engineer in Morocco. Backend services and platform infrastructure. Learning Active Directory, red teaming and web application security.">
   <defs>
     <style>
       .m { font-family: "SFMono-Regular", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; }
@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <rect x="0.5" y="0.5" width="839" height="239" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="839" height="407" rx="10" fill="#0d1117" stroke="#30363d"/>
   <path d="M0.5 10.5a10 10 0 0 1 10-10h819a10 10 0 0 1 10 10V38H0.5z" fill="#161b22" stroke="#30363d"/>
   <line x1="0.5" y1="38" x2="839.5" y2="38" stroke="#30363d"/>
   <circle cx="22" cy="19.5" r="5.5" fill="#ff5f56"/>
@@ -16,20 +16,25 @@
   <circle cx="60" cy="19.5" r="5.5" fill="#27c93f"/>
   <text class="m" x="420" y="24" font-size="12.5" fill="#8b949e" text-anchor="middle">bahbibe@morocco: ~</text>
 
-  <text class="m" x="420" y="80" font-size="14" text-anchor="middle">
-    <tspan fill="#3fb950">bahbibe@morocco</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami</tspan>
-  </text>
+  <text class="m" x="28" y="72" font-size="14"><tspan fill="#3fb950">bahbibe@morocco</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">whoami --verbose</tspan></text>
 
-  <text class="m" x="420" y="136" font-size="46" font-weight="700" letter-spacing="1" fill="#e6edf3" text-anchor="middle">Boubker Ahbibe<tspan class="cursor" fill="#3fb950">&#9608;</tspan></text>
+  <text class="m" x="28" y="124" font-size="40" font-weight="700" letter-spacing="0.5" fill="#e6edf3">Boubker Ahbibe</text>
+  <text class="m" x="28" y="150" font-size="13" fill="#8b949e">software engineer &#183; offensive security &#183; systems and networks</text>
 
-  <text class="m" x="420" y="172" font-size="15" fill="#8b949e" text-anchor="middle">software engineer &#183; offensive security &#183; systems and networks</text>
+  <text class="m" font-size="14" y="186"><tspan x="50" fill="#8b949e">location</tspan><tspan x="140" fill="#e6edf3">Morocco</tspan></text>
+  <text class="m" font-size="14" y="212"><tspan x="50" fill="#8b949e">role</tspan><tspan x="140" fill="#e6edf3">Software Engineer</tspan></text>
+  <text class="m" font-size="14" y="238"><tspan x="50" fill="#8b949e">doing</tspan><tspan x="140" fill="#e6edf3">backend services and platform infrastructure</tspan></text>
+  <text class="m" font-size="14" y="264"><tspan x="50" fill="#8b949e">learning</tspan><tspan x="140" fill="#e6edf3">Active Directory, red teaming, web application security</tspan></text>
 
-  <g transform="translate(0,196)">
-    <rect x="132" y="0" width="140" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
-    <text class="m" x="202" y="18.5" font-size="12" fill="#3fb950" text-anchor="middle" textLength="112" lengthAdjust="spacingAndGlyphs">backend + infra</text>
-    <rect x="284" y="0" width="251" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
-    <text class="m" x="410" y="18.5" font-size="12" fill="#58a6ff" text-anchor="middle" textLength="223" lengthAdjust="spacingAndGlyphs">web / linux / active directory</text>
-    <rect x="547" y="0" width="162" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
-    <text class="m" x="628" y="18.5" font-size="12" fill="#8b949e" text-anchor="middle" textLength="134" lengthAdjust="spacingAndGlyphs">C  C++  Go  Python</text>
+  <text class="m" x="28" y="300" font-size="14"><tspan fill="#3fb950">bahbibe@morocco</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">uptime</tspan></text>
+  <text class="m" x="50" y="326" font-size="14" fill="#e6edf3">writing C since 2018, still enjoy segfaults<tspan class="cursor" fill="#3fb950">&#9608;</tspan></text>
+
+  <g transform="translate(0,352)">
+    <rect x="28" y="0" width="140" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
+    <text class="m" x="98" y="18.5" font-size="12" fill="#3fb950" text-anchor="middle" textLength="112" lengthAdjust="spacingAndGlyphs">backend + infra</text>
+    <rect x="180" y="0" width="251" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
+    <text class="m" x="306" y="18.5" font-size="12" fill="#58a6ff" text-anchor="middle" textLength="223" lengthAdjust="spacingAndGlyphs">web / linux / active directory</text>
+    <rect x="443" y="0" width="162" height="28" rx="4" fill="#21262d" stroke="#30363d"/>
+    <text class="m" x="524" y="18.5" font-size="12" fill="#8b949e" text-anchor="middle" textLength="134" lengthAdjust="spacingAndGlyphs">C  C++  Go  Python</text>
   </g>
 </svg>

@@ -92,14 +92,6 @@ Active Directory pentesting.
 
 ---
 
-## 📊 GitHub
-
-<p>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahbibe&layout=compact&theme=github_dark&hide=html,css,makefile&langs_count=8" />
-</p>
-
----
-
 <p align="center">
 <i>"Secure by design. Curious by nature."</i>
 </p>
